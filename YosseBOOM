@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>אתר מתיחה מטורף</title>
+    <title>מתיחה מטורפת</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            text-align: center;
             background-color: #222;
             color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
         }
         h1 {
             margin-top: 50px;
